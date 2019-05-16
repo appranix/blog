@@ -8,7 +8,7 @@ https://blog.openshift.com/openshift-commons-briefing-openshift-4-0-release-upda
 
 One of the biggest differences between OpenShift 3 and 4 is how OpenShift 4 clusters operate using immutable and completely automated infrastructure enabled by RHEL CoreOS based operating system and automation. Changing from mutable infrastructure based OpenShift 3 clusters to immutable infrastructure based clusters brings interesting challenges. On the one hand, OpenShift 4 simplifies operations drastically by using the Operators model, but on the other, it makes the migration to this model more time consuming and complex. 
 
-![alt text](Images/migration-openshift-3-to-4/image6.png "Immutable Infrastructure")
+![alt text](Images/migration-openshift-3-to-4/image6.jpg "Immutable Infrastructure")
 
 ## Using Appranix to Migrate from OpenShift 3 to 4 Clusters
 
